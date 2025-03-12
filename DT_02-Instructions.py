@@ -53,7 +53,7 @@ The data will also be written to a text file which has the name of your product 
 
 # Main routine goes here
 
-make_statement("Mini-Movie Fundraiser Program", "🍿")
+make_statement("Fundraiser Program", "💰")
 
 print()
 want_instructions = string_check("Do you want to see the instructions? ")
