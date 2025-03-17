@@ -49,23 +49,6 @@ def get_expenses(exp_type):
 
         # check users enter at least one variable expense
         if (exp_type == "variable" and
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             item_name == "xxx") and len(all_items) == 0:
             print("Oops - you have not entered anything. "
                   "You need at least one item.")
